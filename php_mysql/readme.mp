@@ -1,0 +1,1 @@
+D:\HERD\php84\php.exe -S localhost:7878
